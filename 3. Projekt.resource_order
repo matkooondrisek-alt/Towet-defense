@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Code","order":8,"path":"folders/Code.yy",},
+    {"name":"Slime","order":1,"path":"folders/Code/Slime.yy",},
+    {"name":"Enviroment","order":6,"path":"folders/Enviroment.yy",},
+    {"name":"Hud","order":4,"path":"folders/Hud.yy",},
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Sounds","order":5,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"monster","order":5,"path":"folders/Sprites/monster.yy",},
+    {"name":"Tiles","order":6,"path":"folders/Sprites/Tiles.yy",},
+    {"name":"Towers","order":7,"path":"folders/Towers.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"o_slime","order":1,"path":"objects/o_slime/o_slime.yy",},
+    {"name":"Path2","order":1,"path":"paths/Path2/Path2.yy",},
+    {"name":"spr_slime_dying_side","order":2,"path":"sprites/spr_slime_dying_side/spr_slime_dying_side.yy",},
+    {"name":"spr_slime_walking_side","order":3,"path":"sprites/spr_slime_walking_side/spr_slime_walking_side.yy",},
+    {"name":"spr_slime_walking_up","order":4,"path":"sprites/spr_slime_walking_up/spr_slime_walking_up.yy",},
+    {"name":"Sprite10","order":5,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"Sprite7","order":1,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite8","order":3,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
